@@ -1,8 +1,3 @@
-# MLOps-Vehicle-Insurance-Data-Pipeline
-MLOps Project - Vehicle Insurance Data Pipeline
-
----
-
 # 🚗 MLOps Vehicle Insurance Data Pipeline
 
 End-to-end **MLOps pipeline** for Vehicle Insurance Prediction, covering **data ingestion → validation → transformation → model training → evaluation → deployment**, with **MongoDB, AWS, Docker, CI/CD, and Flask**.
@@ -22,6 +17,7 @@ This project demonstrates a **complete MLOps lifecycle**:
 * CI/CD using GitHub Actions
 * Dockerized deployment on AWS EC2
 * Flask-based prediction API
+* Set up TLS with DNS and nginx to enable https
 
 ---
 
