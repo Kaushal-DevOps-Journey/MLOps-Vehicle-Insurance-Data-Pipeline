@@ -17,7 +17,7 @@ This project demonstrates a **complete MLOps lifecycle**:
 * CI/CD using GitHub Actions
 * Dockerized deployment on AWS EC2
 * Flask-based prediction API
-* Set up TLS with custom daomain and nginx
+* Set up TLS with DNS and nginx to enable https
 
 ---
 
